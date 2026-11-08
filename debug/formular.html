@@ -1,0 +1,49 @@
+<form class="form event-form klein" action="#meldung" method="get">
+            <input type="hidden" value="warnemuende"
+               name="ort">
+                <div class="event-type-wrapper">
+            <select id="event-type-id" name="veranstaltungsart">
+                <option hidden value="">Veranstaltungsart</option>
+                <option value="">alle</option>
+                                    <option
+                        value="festivals" >
+                        Festivals                    </option>
+                                    <option
+                        value="fuer-familien" >
+                        Für Familien                    </option>
+                                    <option
+                        value="musik" >
+                        Musik                    </option>
+                                    <option
+                        value="ostern" >
+                        Ostern                    </option>
+                                    <option
+                        value="shows" >
+                        Shows                    </option>
+                                    <option
+                        value="sport" >
+                        Sport                    </option>
+                                    <option
+                        value="theater" >
+                        Theater                    </option>
+                                    <option
+                        value="volksfest" >
+                        Volksfest                    </option>
+                                    <option
+                        value="weihnachtsmaerkte" >
+                        Weihnachtsmärkte                    </option>
+                            </select>
+        </div>
+        <input type="hidden" value="08.11.2026" name="datum_heute">
+    <div class="date-wrapper date-from-wrapper">
+        <input id="event-date-from" name="datum_von" type="text" placeholder="TT.MM.JJJJ"
+               value="">
+    </div>
+    <div class="date-wrapper date-to-wrapper">
+        <input id="event-date-to" name="datum_bis" type="text" placeholder="TT.MM.JJJJ"
+               value="">
+    </div>
+    <div class="search-wrapper">
+        <button class="button" id="event-button" name="senden" title="Suche starten">Suche starten</button>
+    </div>
+</form>
