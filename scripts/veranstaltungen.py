@@ -126,13 +126,14 @@ def fetch_events() -> dict[str, dict]:
     # Kategorien ueber den Filter der Seite
     form = re.search(r'<select id="event-type-id" name="veranstaltungsart">(.*?)</select>', page, re.S)
     cats = re.findall(r'<option\s+value="([^"]+)"\s*>\s*(.*?)\s*</option>', form.group(1), re.S) if form else []
+    # Der Filter wirkt nur ueber eigene Uebersichtsseiten je Kategorie (gesamte Ostseekueste);
+    # gezaehlt werden nur die Warnemuender Veranstaltungen, die dort auftauchen.
     for value, label in cats:
         try:
-            sub = parse_page(http_get(URL + "?" + urllib.parse.urlencode({"ort": "warnemuende", "veranstaltungsart": value})))
+            sub = set(re.findall(r'"identifier":"de-ostsee-event-(\d+)"',
+                                 http_get(f"https://www.ostsee.de/veranstaltungen/{urllib.parse.quote(value)}.php")))
         except FetchError:
             continue
-        if len(sub) >= len(events):
-            continue  # Filter hat offenbar nicht gegriffen
         for eid in sub:
             if eid in events:
                 events[eid].setdefault("kategorien", [])
