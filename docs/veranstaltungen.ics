@@ -1,0 +1,500 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//veranstaltungen-warnemuende//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Veranstaltungen Warnemünde
+X-WR-TIMEZONE:Europe/Berlin
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:112494-20261024@veranstaltungen-warnemuende
+DTSTAMP:20260101T000000Z
+DTSTART:20261024T080000Z
+DTEND:20261024T100000Z
+SUMMARY:Winterbaden
+LOCATION:Strand – Höhe Rettungsturm\, Seestraße\, 18119 Warnemünde
+DESCRIPTION:24.10.2026 bis 29.11.2026\, 10:00 Uhr\nTermin: Jeden Samstag u
+ nd Sonntag\nZeit: ab 10:00 Uhr\nOrt: Strand – Höhe Rettungsturm\, Seest
+ raße\, 18119 Warnemünde\n\nder „Rostocker Seehunde“\n\nMehr Infos: h
+ ttps://www.ostsee.de/warnemuende/veranstaltungen.php\nQuelle: ostsee.de 
+ – Angaben ohne Gewähr.
+URL:https://www.ostsee.de/warnemuende/veranstaltungen.php
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:112494-20261025@veranstaltungen-warnemuende
+DTSTAMP:20260101T000000Z
+DTSTART:20261025T090000Z
+DTEND:20261025T110000Z
+SUMMARY:Winterbaden
+LOCATION:Strand – Höhe Rettungsturm\, Seestraße\, 18119 Warnemünde
+DESCRIPTION:24.10.2026 bis 29.11.2026\, 10:00 Uhr\nTermin: Jeden Samstag u
+ nd Sonntag\nZeit: ab 10:00 Uhr\nOrt: Strand – Höhe Rettungsturm\, Seest
+ raße\, 18119 Warnemünde\n\nder „Rostocker Seehunde“\n\nMehr Infos: h
+ ttps://www.ostsee.de/warnemuende/veranstaltungen.php\nQuelle: ostsee.de 
+ – Angaben ohne Gewähr.
+URL:https://www.ostsee.de/warnemuende/veranstaltungen.php
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:112494-20261031@veranstaltungen-warnemuende
+DTSTAMP:20260101T000000Z
+DTSTART:20261031T090000Z
+DTEND:20261031T110000Z
+SUMMARY:Winterbaden
+LOCATION:Strand – Höhe Rettungsturm\, Seestraße\, 18119 Warnemünde
+DESCRIPTION:24.10.2026 bis 29.11.2026\, 10:00 Uhr\nTermin: Jeden Samstag u
+ nd Sonntag\nZeit: ab 10:00 Uhr\nOrt: Strand – Höhe Rettungsturm\, Seest
+ raße\, 18119 Warnemünde\n\nder „Rostocker Seehunde“\n\nMehr Infos: h
+ ttps://www.ostsee.de/warnemuende/veranstaltungen.php\nQuelle: ostsee.de 
+ – Angaben ohne Gewähr.
+URL:https://www.ostsee.de/warnemuende/veranstaltungen.php
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:112494-20261101@veranstaltungen-warnemuende
+DTSTAMP:20260101T000000Z
+DTSTART:20261101T090000Z
+DTEND:20261101T110000Z
+SUMMARY:Winterbaden
+LOCATION:Strand – Höhe Rettungsturm\, Seestraße\, 18119 Warnemünde
+DESCRIPTION:24.10.2026 bis 29.11.2026\, 10:00 Uhr\nTermin: Jeden Samstag u
+ nd Sonntag\nZeit: ab 10:00 Uhr\nOrt: Strand – Höhe Rettungsturm\, Seest
+ raße\, 18119 Warnemünde\n\nder „Rostocker Seehunde“\n\nMehr Infos: h
+ ttps://www.ostsee.de/warnemuende/veranstaltungen.php\nQuelle: ostsee.de 
+ – Angaben ohne Gewähr.
+URL:https://www.ostsee.de/warnemuende/veranstaltungen.php
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:112494-20261107@veranstaltungen-warnemuende
+DTSTAMP:20260101T000000Z
+DTSTART:20261107T090000Z
+DTEND:20261107T110000Z
+SUMMARY:Winterbaden
+LOCATION:Strand – Höhe Rettungsturm\, Seestraße\, 18119 Warnemünde
+DESCRIPTION:24.10.2026 bis 29.11.2026\, 10:00 Uhr\nTermin: Jeden Samstag u
+ nd Sonntag\nZeit: ab 10:00 Uhr\nOrt: Strand – Höhe Rettungsturm\, Seest
+ raße\, 18119 Warnemünde\n\nder „Rostocker Seehunde“\n\nMehr Infos: h
+ ttps://www.ostsee.de/warnemuende/veranstaltungen.php\nQuelle: ostsee.de 
+ – Angaben ohne Gewähr.
+URL:https://www.ostsee.de/warnemuende/veranstaltungen.php
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:112494-20261108@veranstaltungen-warnemuende
+DTSTAMP:20260101T000000Z
+DTSTART:20261108T090000Z
+DTEND:20261108T110000Z
+SUMMARY:Winterbaden
+LOCATION:Strand – Höhe Rettungsturm\, Seestraße\, 18119 Warnemünde
+DESCRIPTION:24.10.2026 bis 29.11.2026\, 10:00 Uhr\nTermin: Jeden Samstag u
+ nd Sonntag\nZeit: ab 10:00 Uhr\nOrt: Strand – Höhe Rettungsturm\, Seest
+ raße\, 18119 Warnemünde\n\nder „Rostocker Seehunde“\n\nMehr Infos: h
+ ttps://www.ostsee.de/warnemuende/veranstaltungen.php\nQuelle: ostsee.de 
+ – Angaben ohne Gewähr.
+URL:https://www.ostsee.de/warnemuende/veranstaltungen.php
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:112494-20261114@veranstaltungen-warnemuende
+DTSTAMP:20260101T000000Z
+DTSTART:20261114T090000Z
+DTEND:20261114T110000Z
+SUMMARY:Winterbaden
+LOCATION:Strand – Höhe Rettungsturm\, Seestraße\, 18119 Warnemünde
+DESCRIPTION:24.10.2026 bis 29.11.2026\, 10:00 Uhr\nTermin: Jeden Samstag u
+ nd Sonntag\nZeit: ab 10:00 Uhr\nOrt: Strand – Höhe Rettungsturm\, Seest
+ raße\, 18119 Warnemünde\n\nder „Rostocker Seehunde“\n\nMehr Infos: h
+ ttps://www.ostsee.de/warnemuende/veranstaltungen.php\nQuelle: ostsee.de 
+ – Angaben ohne Gewähr.
+URL:https://www.ostsee.de/warnemuende/veranstaltungen.php
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:112494-20261115@veranstaltungen-warnemuende
+DTSTAMP:20260101T000000Z
+DTSTART:20261115T090000Z
+DTEND:20261115T110000Z
+SUMMARY:Winterbaden
+LOCATION:Strand – Höhe Rettungsturm\, Seestraße\, 18119 Warnemünde
+DESCRIPTION:24.10.2026 bis 29.11.2026\, 10:00 Uhr\nTermin: Jeden Samstag u
+ nd Sonntag\nZeit: ab 10:00 Uhr\nOrt: Strand – Höhe Rettungsturm\, Seest
+ raße\, 18119 Warnemünde\n\nder „Rostocker Seehunde“\n\nMehr Infos: h
+ ttps://www.ostsee.de/warnemuende/veranstaltungen.php\nQuelle: ostsee.de 
+ – Angaben ohne Gewähr.
+URL:https://www.ostsee.de/warnemuende/veranstaltungen.php
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:112494-20261121@veranstaltungen-warnemuende
+DTSTAMP:20260101T000000Z
+DTSTART:20261121T090000Z
+DTEND:20261121T110000Z
+SUMMARY:Winterbaden
+LOCATION:Strand – Höhe Rettungsturm\, Seestraße\, 18119 Warnemünde
+DESCRIPTION:24.10.2026 bis 29.11.2026\, 10:00 Uhr\nTermin: Jeden Samstag u
+ nd Sonntag\nZeit: ab 10:00 Uhr\nOrt: Strand – Höhe Rettungsturm\, Seest
+ raße\, 18119 Warnemünde\n\nder „Rostocker Seehunde“\n\nMehr Infos: h
+ ttps://www.ostsee.de/warnemuende/veranstaltungen.php\nQuelle: ostsee.de 
+ – Angaben ohne Gewähr.
+URL:https://www.ostsee.de/warnemuende/veranstaltungen.php
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:112494-20261122@veranstaltungen-warnemuende
+DTSTAMP:20260101T000000Z
+DTSTART:20261122T090000Z
+DTEND:20261122T110000Z
+SUMMARY:Winterbaden
+LOCATION:Strand – Höhe Rettungsturm\, Seestraße\, 18119 Warnemünde
+DESCRIPTION:24.10.2026 bis 29.11.2026\, 10:00 Uhr\nTermin: Jeden Samstag u
+ nd Sonntag\nZeit: ab 10:00 Uhr\nOrt: Strand – Höhe Rettungsturm\, Seest
+ raße\, 18119 Warnemünde\n\nder „Rostocker Seehunde“\n\nMehr Infos: h
+ ttps://www.ostsee.de/warnemuende/veranstaltungen.php\nQuelle: ostsee.de 
+ – Angaben ohne Gewähr.
+URL:https://www.ostsee.de/warnemuende/veranstaltungen.php
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:112494-20261128@veranstaltungen-warnemuende
+DTSTAMP:20260101T000000Z
+DTSTART:20261128T090000Z
+DTEND:20261128T110000Z
+SUMMARY:Winterbaden
+LOCATION:Strand – Höhe Rettungsturm\, Seestraße\, 18119 Warnemünde
+DESCRIPTION:24.10.2026 bis 29.11.2026\, 10:00 Uhr\nTermin: Jeden Samstag u
+ nd Sonntag\nZeit: ab 10:00 Uhr\nOrt: Strand – Höhe Rettungsturm\, Seest
+ raße\, 18119 Warnemünde\n\nder „Rostocker Seehunde“\n\nMehr Infos: h
+ ttps://www.ostsee.de/warnemuende/veranstaltungen.php\nQuelle: ostsee.de 
+ – Angaben ohne Gewähr.
+URL:https://www.ostsee.de/warnemuende/veranstaltungen.php
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:112494-20261129@veranstaltungen-warnemuende
+DTSTAMP:20260101T000000Z
+DTSTART:20261129T090000Z
+DTEND:20261129T110000Z
+SUMMARY:Winterbaden
+LOCATION:Strand – Höhe Rettungsturm\, Seestraße\, 18119 Warnemünde
+DESCRIPTION:24.10.2026 bis 29.11.2026\, 10:00 Uhr\nTermin: Jeden Samstag u
+ nd Sonntag\nZeit: ab 10:00 Uhr\nOrt: Strand – Höhe Rettungsturm\, Seest
+ raße\, 18119 Warnemünde\n\nder „Rostocker Seehunde“\n\nMehr Infos: h
+ ttps://www.ostsee.de/warnemuende/veranstaltungen.php\nQuelle: ostsee.de 
+ – Angaben ohne Gewähr.
+URL:https://www.ostsee.de/warnemuende/veranstaltungen.php
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:97716@veranstaltungen-warnemuende
+DTSTAMP:20260101T000000Z
+DTSTART:20261111T163000Z
+DTEND:20261111T183000Z
+SUMMARY:St. Martinsumzug
+LOCATION:Kirchenplatz\, 18119 Warnemünde
+DESCRIPTION:11.11.2026\, 17:30 Uhr\nZeit: ab 17:30 Uhr\nOrt: Kirchenplatz\
+ , 18119 Warnemünde\n\nNach einer Andacht in der Kirche startet der Lampio
+ numzug über den Alten Strom und die Promenade zum Kurhausgarten mit musik
+ alischer Begleitung und geführt vom berittenen St. Martin. Am Kurhausgart
+ en erwarten Sie …\n\nMehr Infos: https://www.ostsee.de/warnemuende/veran
+ staltungen.php\nQuelle: ostsee.de – Angaben ohne Gewähr.
+URL:https://www.ostsee.de/warnemuende/veranstaltungen.php
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:118286@veranstaltungen-warnemuende
+DTSTAMP:20260101T000000Z
+DTSTART:20261114T190000Z
+DTEND:20261114T210000Z
+SUMMARY:So oder so ist das Leben
+LOCATION:Kleine Komödie\, Rostocker Straße 8\, 18119 Warnemünde
+DESCRIPTION:14.11.2026\, 20:00 Uhr\nZeit: ab 20:00 Uhr\nOrt: Kleine Komöd
+ ie\, Rostocker Straße 8\, 18119 Warnemünde\n\nDiese musikalische Hommage
+  begibt sich auf eine schillernde Zeitreise durch das bewegte Leben der Ik
+ one Hildegard Knef. Die Schauspielerinnen Katrin Heller und Katharina Otte
+  beleuchten dabei mit Witz\, Trotz und …\n\nMehr Infos: https://www.osts
+ ee.de/warnemuende/veranstaltungen.php\nQuelle: ostsee.de – Angaben ohne 
+ Gewähr.
+URL:https://www.ostsee.de/warnemuende/veranstaltungen.php
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:70302@veranstaltungen-warnemuende
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261224
+SUMMARY:Warnemünder Weihnachts- und Neujahrsmarkt
+LOCATION:Kirchenplatz\, 18119 Warnemünde
+DESCRIPTION:28.11.2026 bis 23.12.2026\, 11:00 Uhr\nZeit: ab 11:00 Uhr\nOrt
+ : Kirchenplatz\, 18119 Warnemünde\n\nHier erwarten Sie viele süße und h
+ erzhafte Leckereien\, bunte Lichter\, Festtagsstimmung und sicherlich auch
+  das eine oder andere Mitbringsel für Ihre Liebsten. Öffnungszeiten: 01.
+  – 16.12. Mittwoch bis Sonntag 11:00 bis …\n\nMehr Infos: https://www.
+ ostsee.de/warnemuende/veranstaltungen.php\nQuelle: ostsee.de – Angaben o
+ hne Gewähr.
+URL:https://www.ostsee.de/warnemuende/veranstaltungen.php
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:47596@veranstaltungen-warnemuende
+DTSTAMP:20260101T000000Z
+DTSTART:20261129T140000Z
+DTEND:20261129T160000Z
+SUMMARY:Warnemünder Adventssingen am Leuchtturm
+LOCATION:Am Leuchtturm\, 18111 Warnemünde
+DESCRIPTION:29.11.2026\, 15:00 Uhr\nZeit: ab 15:00 Uhr\nOrt: Am Leuchtturm
+ \, 18111 Warnemünde\n\nTraditionelles Singen mit der ganzen Familie\, dem
+  Warnemünder Kinderchor und anderen\, um sich gemeinsam musikalisch auf d
+ ie Weihnachtszeit einzustimmen.\n\nMehr Infos: https://www.ostsee.de/warne
+ muende/veranstaltungen.php\nQuelle: ostsee.de – Angaben ohne Gewähr.
+URL:https://www.ostsee.de/warnemuende/veranstaltungen.php
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:119644@veranstaltungen-warnemuende
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Adventsmarkt vorm Heimatmuseum
+LOCATION:Heimatmuseum\, Alexandrinenstraße 30/31\, 18119 Warnemünde
+DESCRIPTION:04.12.2026\nOrt: Heimatmuseum\, Alexandrinenstraße 30/31\, 18
+ 119 Warnemünde\n\nIm Rahmen des „Lebendigen Adventskalenders“ lädt d
+ er Adventsmarkt vor dem Heimatmuseum zum gemütlichen Beisammensein ein. V
+ orweihnachtliche Stimmung\, Begegnungen und stimmungsvolle Momente für di
+ e ganze Familie.\n\nMehr Infos: https://www.ostsee.de/warnemuende/veransta
+ ltungen.php\nQuelle: ostsee.de – Angaben ohne Gewähr.
+URL:https://www.ostsee.de/warnemuende/veranstaltungen.php
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:118660@veranstaltungen-warnemuende
+DTSTAMP:20260101T000000Z
+DTSTART:20261206T190000Z
+DTEND:20261206T210000Z
+SUMMARY:Premiere: Love letters
+LOCATION:Kleine Komödie\, Rostocker Straße 8\, 18119 Warnemünde
+DESCRIPTION:06.12.2026\, 20:00 Uhr\nZeit: ab 20:00 Uhr\nOrt: Kleine Komöd
+ ie\, Rostocker Straße 8\, 18119 Warnemünde\n\nLassen Sie sich von diesem
+  preisgekrönten Theaterstück mitreißen\, das mit Witz und Gefühl von L
+ iebe sowie verpassten Chancen berichtet.\n\nMehr Infos: https://www.ostsee
+ .de/warnemuende/veranstaltungen.php\nQuelle: ostsee.de – Angaben ohne Ge
+ währ.
+URL:https://www.ostsee.de/warnemuende/veranstaltungen.php
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:119610@veranstaltungen-warnemuende
+DTSTAMP:20260101T000000Z
+DTSTART:20261224T093000Z
+DTEND:20261224T120000Z
+SUMMARY:Weihnachtliche Bescherung
+LOCATION:Warnemünder Vogtei\, Am Strom 59\, 18119 Warnemünde
+DESCRIPTION:24.12.2026\, 10:30–13:00 Uhr\nZeit: 10:30 bis 13:00 Uhr\nOrt
+ : Warnemünder Vogtei\, Am Strom 59\, 18119 Warnemünde\n\nDer Weihnachtsm
+ ann ist da! Gemeinsam mit seinem Weihnachtsengel macht er auf dem Seenotkr
+ euzer ARKONA vor der Vogtei fest und verteilt süße Überraschungen an di
+ e Kleinen. Für die passende festliche Stimmung sorgen …\n\nMehr Infos: 
+ https://www.ostsee.de/warnemuende/veranstaltungen.php\nQuelle: ostsee.de 
+ – Angaben ohne Gewähr.
+URL:https://www.ostsee.de/warnemuende/veranstaltungen.php
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:73992@veranstaltungen-warnemuende
+DTSTAMP:20260101T000000Z
+DTSTART:20270101T140000Z
+DTEND:20270101T210000Z
+SUMMARY:Warnemünder Turmleuchten
+LOCATION:Am Leuchtturm\, 18111 Warnemünde
+DESCRIPTION:01.01.2027\, 15:00–22:00 Uhr\nZeit: 15:00 bis 22:00 Uhr\nOrt
+ : Am Leuchtturm\, 18111 Warnemünde\n\nDas Highlight zum Jahresauftakt: Sc
+ hon traditionell wird das neue Jahr mit einem bunten Showprogramm begrüß
+ t. Erleben Sie eine Lasershow und Feuerwerk mit musikalischer Untermalung!
+  Gastronomische Versorgung vor Ort.\n\nMehr Infos: https://www.ostsee.de/w
+ arnemuende/turmleuchten-leuchtturm-in-flammen.php\nQuelle: ostsee.de – A
+ ngaben ohne Gewähr.
+URL:https://www.ostsee.de/warnemuende/turmleuchten-leuchtturm-in-flammen.p
+ hp
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:69615@veranstaltungen-warnemuende
+DTSTAMP:20260101T000000Z
+DTSTART:20270320T180000Z
+DTEND:20270320T200000Z
+SUMMARY:Kultur trifft Genuss
+LOCATION:Warnemünde
+DESCRIPTION:20.03.2027\, 19:00 Uhr\nZeit: ab 19:00 Uhr\nOrt: Warnemünde\n
+ \nIn kulinarischem Ambiente\, bei regionalen Spezialitäten erleben Sie ku
+ lturelle Hochgenüsse mit Studierenden der Hochschule für Musik und Theat
+ er Rostock Veranstaltungsort: Kleine Komödie Warnemünde und verschiedene
+  …\n\nMehr Infos: https://www.ostsee.de/warnemuende/veranstaltungen.php\
+ nQuelle: ostsee.de – Angaben ohne Gewähr.
+URL:https://www.ostsee.de/warnemuende/veranstaltungen.php
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:56148@veranstaltungen-warnemuende
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270330
+SUMMARY:Ostermarkt und Osterfeuer mit Blick aufs Meer
+LOCATION:Promenade\, Seestraße\, 18119 Warnemünde
+DESCRIPTION:24.03.2027 bis 29.03.2027\, 10:00 Uhr\nZeit: ab 10:00 Uhr\nOrt
+ : Promenade\, Seestraße\, 18119 Warnemünde\n\nDer Ostermarkt auf der War
+ nemünder Promenade und dem Leuchtturmvorplatz erwartet Sie mit vielen bun
+ ten Händlern\, Kulinarik und natürlich Musik. Das traditionelle Osterfeu
+ er (Samstag) findet am Strand unterhalb von …\n\nMehr Infos: https://www
+ .ostsee.de/warnemuende/veranstaltungen.php\nQuelle: ostsee.de – Angaben 
+ ohne Gewähr.
+URL:https://www.ostsee.de/warnemuende/veranstaltungen.php
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:63592@veranstaltungen-warnemuende
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270426
+SUMMARY:Port Party
+LOCATION:Passagierkai\, Am Passagierkai\, 18119 Warnemünde
+DESCRIPTION:23.04.2027 bis 25.04.2027\, 13:00–23:00 Uhr\nZeit: 13:00 bis
+  23:00 Uhr\nOrt: Passagierkai\, Am Passagierkai\, 18119 Warnemünde\n\nAnl
+ ässlich einiger besonderer Kreuzfahrtschiffsanläufe gibt es ein vielseit
+ iges Programm mit Moderation\, Livemusik\, Speisen und Getränke und viele
+ s mehr...\n\nMehr Infos: https://www.ostsee.de/warnemuende/kreuzfahrtschif
+ fe.php\nQuelle: ostsee.de – Angaben ohne Gewähr.
+URL:https://www.ostsee.de/warnemuende/kreuzfahrtschiffe.php
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9200@veranstaltungen-warnemuende
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270503
+SUMMARY:Warnemünder Frühlingslandgang (ehemals „Stromerwachen“)
+LOCATION:Am Alten Strom\, Alter Strom\, 18119 Warnemünde
+DESCRIPTION:28.04.2027 bis 02.05.2027\, 10:00 Uhr\nZeit: ab 10:00 Uhr\nOrt
+ : Am Alten Strom\, Alter Strom\, 18119 Warnemünde\n\nTraditioneller festl
+ icher Saisonauftakt\, mit Drehorgelspielern aus ganz Deutschland\, einer a
+ usgedehnten Bummelmeile mit Marktständen\, bunten Drachen am Strand und k
+ ulinarischen Leckereien entlang des Alten Stroms und …\n\nMehr Infos: ht
+ tps://www.ostsee.de/warnemuende/fruehlingslandgang-stromerwachen.php\nQuel
+ le: ostsee.de – Angaben ohne Gewähr.
+URL:https://www.ostsee.de/warnemuende/fruehlingslandgang-stromerwachen.php
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:99791@veranstaltungen-warnemuende
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270510
+SUMMARY:Kleinkunstfest Warnemünde
+LOCATION:Promenade\, Seestraße\, 18119 Warnemünde
+DESCRIPTION:06.05.2027 bis 09.05.2027\nOrt: Promenade\, Seestraße\, 18119
+  Warnemünde\n\nErleben Sie an unterschiedlichen Orten im Ostseebad Kleink
+ unst wie Comedy\, Artistik\, Musik\, Walk Art und mehr\, Mitmachaktionen\,
+  Überraschungen\, kleine Köstlichkeiten und einen Händlermarkt.\n\nMehr
+  Infos: https://www.ostsee.de/warnemuende/veranstaltungen.php\nQuelle: ost
+ see.de – Angaben ohne Gewähr.
+URL:https://www.ostsee.de/warnemuende/veranstaltungen.php
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:93686@veranstaltungen-warnemuende
+DTSTAMP:20260101T000000Z
+DTSTART:20270516T080000Z
+DTEND:20270516T150000Z
+SUMMARY:Internationaler Museumstag
+LOCATION:Heimatmuseum\, Alexandrinenstraße 30/31\, 18119 Warnemünde
+DESCRIPTION:16.05.2027\, 10:00–17:00 Uhr\nZeit: 10:00 bis 17:00 Uhr\nOrt
+ : Heimatmuseum\, Alexandrinenstraße 30/31\, 18119 Warnemünde\n\nUm Musee
+ n zu entdecken lädt das Warnemünder Heimatmuseum zu einem spannenden Run
+ dgang und der Präsentation ausgewählter Filmbeiträge ein.\n\nMehr Infos
+ : https://www.ostsee.de/warnemuende/veranstaltungen.php\nQuelle: ostsee.de
+  – Angaben ohne Gewähr.
+URL:https://www.ostsee.de/warnemuende/veranstaltungen.php
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:44@veranstaltungen-warnemuende
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270703
+DTEND;VALUE=DATE:20270712
+SUMMARY:Warnemünder Woche
+LOCATION:Am Alten Strom\, Alter Strom\, 18119 Warnemünde
+DESCRIPTION:03.07.2027 bis 11.07.2027\nOrt: Am Alten Strom\, Alter Strom\,
+  18119 Warnemünde\n\nErleben Sie neun Tage lang großartige Unterhaltung:
+  An Land erwartet Sie ein Volksfest mit Konzerten\, Bühnenprogrammen und 
+ mehr. Seeseitig findet die größte Segelsportveranstaltung mit internatio
+ naler Beteiligung in …\n\nMehr Infos: https://www.ostsee.de/warnemuende/
+ warnemuender-woche.php\nQuelle: ostsee.de – Angaben ohne Gewähr.
+URL:https://www.ostsee.de/warnemuende/warnemuender-woche.php
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:40004@veranstaltungen-warnemuende
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270710
+DTEND;VALUE=DATE:20270712
+SUMMARY:Warnemünder Drachenbootfestival
+LOCATION:Warnemünde
+DESCRIPTION:10.07.2027 bis 11.07.2027\nOrt: Warnemünde\n\n„Are you read
+ y\, Attention\, Go!“ heißt es am zweiten Wochenende der Warnemünder Wo
+ che für ca. 35 Teams mit rund 700 Teilnehmern\, die zum Drachenbootfestiv
+ al auf dem südlichen Ende des Alten Stroms alles geben.\n\nMehr Infos: ht
+ tps://www.ostsee.de/warnemuende/warnemuender-woche.php\nQuelle: ostsee.de 
+ – Angaben ohne Gewähr.
+URL:https://www.ostsee.de/warnemuende/warnemuender-woche.php
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:87579@veranstaltungen-warnemuende
+DTSTAMP:20260101T000000Z
+DTSTART:20270710T080000Z
+DTEND:20270711T215900Z
+SUMMARY:Rostocker Beachhandballtage
+LOCATION:Strand – Höhe Leuchtturm\, Seestraße\, 18119 Warnemünde
+DESCRIPTION:10.07.2027 bis 11.07.2027\, 10:00 Uhr\nZeit: ab 10:00 Uhr\nOrt
+ : Strand – Höhe Leuchtturm\, Seestraße\, 18119 Warnemünde\n\nIm Rahme
+ n der Warnemünder Woche\, mit Damenteams und Herrenteams (Erwachsene). Di
+ e Finalspiele findet gegen 16:00 Uhr statt.\n\nMehr Infos: https://www.ost
+ see.de/warnemuende/warnemuender-woche.php\nQuelle: ostsee.de – Angaben o
+ hne Gewähr.
+URL:https://www.ostsee.de/warnemuende/warnemuender-woche.php
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:115630@veranstaltungen-warnemuende
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270724
+DTEND;VALUE=DATE:20270726
+SUMMARY:Buntes Meer Festival
+LOCATION:Warnemünde
+DESCRIPTION:24.07.2027 bis 25.07.2027\nOrt: Warnemünde\n\nFreuen Sie sich
+  auf ein strahlendes\, liebevolles Meer aus Farben\, Musik und Glitzer\, d
+ as Warnemünde wieder verzaubern wird. Erleben Sie ein unvergessliches Woc
+ henende\, das Vielfalt zelebriert und zum Tanzen im Sand …\n\nMehr Infos
+ : https://www.ostsee.de/warnemuende/veranstaltungen.php\nQuelle: ostsee.de
+  – Angaben ohne Gewähr.
+URL:https://www.ostsee.de/warnemuende/veranstaltungen.php
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:18657@veranstaltungen-warnemuende
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270805
+DTEND;VALUE=DATE:20270809
+SUMMARY:35. Hanse Sail in Warnemünde
+LOCATION:Warnemünde
+DESCRIPTION:05.08.2027 bis 08.08.2027\nOrt: Warnemünde\n\nGrößte mariti
+ me Veranstaltung in Mecklenburg/Vorpommern\, Mitsegeln und Mitfahren auf T
+ ages- und Abendfahrten möglich In Warnemünde erwartet Sie ein großes An
+ gebot: Händlermeile auf der Promenade\, Programm auf der Bühne …\n\nMe
+ hr Infos: https://www.ostsee.de/rostock/hanse-sail.php\nQuelle: ostsee.de 
+ – Angaben ohne Gewähr.
+URL:https://www.ostsee.de/rostock/hanse-sail.php
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
