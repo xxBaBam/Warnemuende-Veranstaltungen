@@ -41,7 +41,10 @@
     "zeit": "ab 11:00 Uhr",
     "beschreibung": "Hier erwarten Sie viele süße und herzhafte Leckereien, bunte Lichter, Festtagsstimmung und sicherlich auch das eine oder andere Mitbringsel für Ihre Liebsten. Öffnungszeiten: 01. – 16.12. Mittwoch bis Sonntag 11:00 bis …",
     "url": "https://www.ostsee.de/warnemuende/veranstaltungen.php",
-    "status": "EventScheduled"
+    "status": "EventScheduled",
+    "kategorien": [
+      "Weihnachtsmärkte"
+    ]
   },
   "47596": {
     "name": "Warnemünder Adventssingen am Leuchtturm",
@@ -63,7 +66,10 @@
     "zeit": "",
     "beschreibung": "Im Rahmen des „Lebendigen Adventskalenders“ lädt der Adventsmarkt vor dem Heimatmuseum zum gemütlichen Beisammensein ein. Vorweihnachtliche Stimmung, Begegnungen und stimmungsvolle Momente für die ganze Familie.",
     "url": "https://www.ostsee.de/warnemuende/veranstaltungen.php",
-    "status": "EventScheduled"
+    "status": "EventScheduled",
+    "kategorien": [
+      "Weihnachtsmärkte"
+    ]
   },
   "118660": {
     "name": "Premiere: Love letters",
@@ -118,7 +124,10 @@
     "zeit": "ab 10:00 Uhr",
     "beschreibung": "Der Ostermarkt auf der Warnemünder Promenade und dem Leuchtturmvorplatz erwartet Sie mit vielen bunten Händlern, Kulinarik und natürlich Musik. Das traditionelle Osterfeuer (Samstag) findet am Strand unterhalb von …",
     "url": "https://www.ostsee.de/warnemuende/veranstaltungen.php",
-    "status": "EventScheduled"
+    "status": "EventScheduled",
+    "kategorien": [
+      "Ostern"
+    ]
   },
   "63592": {
     "name": "Port Party",
@@ -206,7 +215,10 @@
     "zeit": "",
     "beschreibung": "Freuen Sie sich auf ein strahlendes, liebevolles Meer aus Farben, Musik und Glitzer, das Warnemünde wieder verzaubern wird. Erleben Sie ein unvergessliches Wochenende, das Vielfalt zelebriert und zum Tanzen im Sand …",
     "url": "https://www.ostsee.de/warnemuende/veranstaltungen.php",
-    "status": "EventScheduled"
+    "status": "EventScheduled",
+    "kategorien": [
+      "Festivals"
+    ]
   },
   "18657": {
     "name": "35. Hanse Sail in Warnemünde",

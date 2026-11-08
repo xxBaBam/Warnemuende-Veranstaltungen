@@ -228,14 +228,15 @@ DTEND;VALUE=DATE:20261224
 SUMMARY:Warnemünder Weihnachts- und Neujahrsmarkt
 LOCATION:Kirchenplatz\, 18119 Warnemünde
 DESCRIPTION:28.11.2026 bis 23.12.2026\, 11:00 Uhr\nZeit: ab 11:00 Uhr\nOrt
- : Kirchenplatz\, 18119 Warnemünde\n\nHier erwarten Sie viele süße und h
- erzhafte Leckereien\, bunte Lichter\, Festtagsstimmung und sicherlich auch
-  das eine oder andere Mitbringsel für Ihre Liebsten. Öffnungszeiten: 01.
-  – 16.12. Mittwoch bis Sonntag 11:00 bis …\n\nMehr Infos: https://www.
- ostsee.de/warnemuende/veranstaltungen.php\nQuelle: ostsee.de – Angaben o
- hne Gewähr.
+ : Kirchenplatz\, 18119 Warnemünde\nKategorie: Weihnachtsmärkte\n\nHier e
+ rwarten Sie viele süße und herzhafte Leckereien\, bunte Lichter\, Festta
+ gsstimmung und sicherlich auch das eine oder andere Mitbringsel für Ihre 
+ Liebsten. Öffnungszeiten: 01. – 16.12. Mittwoch bis Sonntag 11:00 bis 
+ …\n\nMehr Infos: https://www.ostsee.de/warnemuende/veranstaltungen.php\n
+ Quelle: ostsee.de – Angaben ohne Gewähr.
 URL:https://www.ostsee.de/warnemuende/veranstaltungen.php
 TRANSP:TRANSPARENT
+CATEGORIES:Weihnachtsmärkte
 END:VEVENT
 BEGIN:VEVENT
 UID:47596@veranstaltungen-warnemuende
@@ -260,13 +261,15 @@ DTEND;VALUE=DATE:20261205
 SUMMARY:Adventsmarkt vorm Heimatmuseum
 LOCATION:Heimatmuseum\, Alexandrinenstraße 30/31\, 18119 Warnemünde
 DESCRIPTION:04.12.2026\nOrt: Heimatmuseum\, Alexandrinenstraße 30/31\, 18
- 119 Warnemünde\n\nIm Rahmen des „Lebendigen Adventskalenders“ lädt d
- er Adventsmarkt vor dem Heimatmuseum zum gemütlichen Beisammensein ein. V
- orweihnachtliche Stimmung\, Begegnungen und stimmungsvolle Momente für di
- e ganze Familie.\n\nMehr Infos: https://www.ostsee.de/warnemuende/veransta
- ltungen.php\nQuelle: ostsee.de – Angaben ohne Gewähr.
+ 119 Warnemünde\nKategorie: Weihnachtsmärkte\n\nIm Rahmen des „Lebendig
+ en Adventskalenders“ lädt der Adventsmarkt vor dem Heimatmuseum zum gem
+ ütlichen Beisammensein ein. Vorweihnachtliche Stimmung\, Begegnungen und 
+ stimmungsvolle Momente für die ganze Familie.\n\nMehr Infos: https://www.
+ ostsee.de/warnemuende/veranstaltungen.php\nQuelle: ostsee.de – Angaben o
+ hne Gewähr.
 URL:https://www.ostsee.de/warnemuende/veranstaltungen.php
 TRANSP:TRANSPARENT
+CATEGORIES:Weihnachtsmärkte
 END:VEVENT
 BEGIN:VEVENT
 UID:118660@veranstaltungen-warnemuende
@@ -343,14 +346,15 @@ DTEND;VALUE=DATE:20270330
 SUMMARY:Ostermarkt und Osterfeuer mit Blick aufs Meer
 LOCATION:Promenade\, Seestraße\, 18119 Warnemünde
 DESCRIPTION:24.03.2027 bis 29.03.2027\, 10:00 Uhr\nZeit: ab 10:00 Uhr\nOrt
- : Promenade\, Seestraße\, 18119 Warnemünde\n\nDer Ostermarkt auf der War
- nemünder Promenade und dem Leuchtturmvorplatz erwartet Sie mit vielen bun
- ten Händlern\, Kulinarik und natürlich Musik. Das traditionelle Osterfeu
- er (Samstag) findet am Strand unterhalb von …\n\nMehr Infos: https://www
- .ostsee.de/warnemuende/veranstaltungen.php\nQuelle: ostsee.de – Angaben 
- ohne Gewähr.
+ : Promenade\, Seestraße\, 18119 Warnemünde\nKategorie: Ostern\n\nDer Ost
+ ermarkt auf der Warnemünder Promenade und dem Leuchtturmvorplatz erwartet
+  Sie mit vielen bunten Händlern\, Kulinarik und natürlich Musik. Das tra
+ ditionelle Osterfeuer (Samstag) findet am Strand unterhalb von …\n\nMehr
+  Infos: https://www.ostsee.de/warnemuende/veranstaltungen.php\nQuelle: ost
+ see.de – Angaben ohne Gewähr.
 URL:https://www.ostsee.de/warnemuende/veranstaltungen.php
 TRANSP:TRANSPARENT
+CATEGORIES:Ostern
 END:VEVENT
 BEGIN:VEVENT
 UID:63592@veranstaltungen-warnemuende
@@ -472,14 +476,15 @@ DTSTART;VALUE=DATE:20270724
 DTEND;VALUE=DATE:20270726
 SUMMARY:Buntes Meer Festival
 LOCATION:Warnemünde
-DESCRIPTION:24.07.2027 bis 25.07.2027\nOrt: Warnemünde\n\nFreuen Sie sich
-  auf ein strahlendes\, liebevolles Meer aus Farben\, Musik und Glitzer\, d
- as Warnemünde wieder verzaubern wird. Erleben Sie ein unvergessliches Woc
- henende\, das Vielfalt zelebriert und zum Tanzen im Sand …\n\nMehr Infos
- : https://www.ostsee.de/warnemuende/veranstaltungen.php\nQuelle: ostsee.de
-  – Angaben ohne Gewähr.
+DESCRIPTION:24.07.2027 bis 25.07.2027\nOrt: Warnemünde\nKategorie: Festiv
+ als\n\nFreuen Sie sich auf ein strahlendes\, liebevolles Meer aus Farben\,
+  Musik und Glitzer\, das Warnemünde wieder verzaubern wird. Erleben Sie e
+ in unvergessliches Wochenende\, das Vielfalt zelebriert und zum Tanzen im 
+ Sand …\n\nMehr Infos: https://www.ostsee.de/warnemuende/veranstaltungen.
+ php\nQuelle: ostsee.de – Angaben ohne Gewähr.
 URL:https://www.ostsee.de/warnemuende/veranstaltungen.php
 TRANSP:TRANSPARENT
+CATEGORIES:Festivals
 END:VEVENT
 BEGIN:VEVENT
 UID:18657@veranstaltungen-warnemuende
