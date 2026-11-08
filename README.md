@@ -22,7 +22,8 @@ Settings → Pages → „Deploy from a branch“ → Branch `main`, Ordner `/do
 - Längere Veranstaltungen mit festen Wochentagen (z. B. „Jeden Samstag und Sonntag“) werden als einzelne Tage
   eingetragen, sonst als zusammenhängender Zeitraum (z. B. Warnemünder Woche, Hanse Sail). Ist nur eine Startzeit
   angegeben, wird der Termin mit 2 Stunden eingetragen.
-- Von den Beschreibungen wird nur ein kurzer Anriss übernommen (die Texte gehören ostsee.de), dazu der Link.
+- Öffnungszeiten, Termine und Zeitangaben aus der Beschreibung werden vollständig übernommen; vom beschreibenden
+  Text nur ein kurzer Anriss (die Texte gehören ostsee.de), dazu der Link.
 - Einmal im Monat ändert sich `daten/letzte-pruefung.txt`, damit GitHub den Zeitplan nicht nach 60 Tagen ohne
   Aktivität abschaltet.
 - Scheitert der Abruf oder hat sich die Seite geändert, bleibt der alte Kalender erhalten und der Workflow schlägt

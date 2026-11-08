@@ -70,6 +70,37 @@ def clean(s: str) -> str:
     return " ".join(s.split())
 
 
+def paragraphs(s: str) -> list[str]:
+    """HTML-Beschreibung in Absaetze zerlegen; Zeilenumbrueche (<br>) bleiben erhalten."""
+    s = re.sub(r"<br\s*/?>", "\n", s or "")
+    out = []
+    for para in re.split(r"</p>|\n\s*\n", s):
+        lines = [" ".join(html.unescape(re.sub(r"<[^>]+>", "", ln)).replace("\u00ad", "").replace("\u00a0", " ").split())
+                 for ln in para.split("\n")]
+        lines = [ln for ln in lines if ln]
+        if lines:
+            out.append("\n".join(lines))
+    return out
+
+
+FACT = re.compile(r"\d{1,2}[:.]\d{2}\s*(?:Uhr|bis|–|-)|\bUhr\b|Öffnungszeit|Termin|Einlass|Beginn|Eintritt|"
+                  r"\b(?:montag|dienstag|mittwoch|donnerstag|freitag|samstag|sonntag|täglich|heiligabend|silvester)s?\b|"
+                  r"\b\d{1,2}\.\s*(?:–|-|bis)\s*\d{1,2}\.\d{1,2}\.", re.I)
+
+
+def split_description(s: str, termin: str) -> tuple[str, str]:
+    """(kurzer Anriss des Werbetextes, vollstaendige Fakten wie Oeffnungszeiten)."""
+    prose, facts = [], []
+    for para in paragraphs(s):
+        if termin and para.replace("Termin: ", "").strip() == termin:
+            continue  # steht schon im Feld "Termin"
+        if FACT.search(para) and not (len(para) > 300 and para.count("\n") == 0):
+            facts.append(para)
+        else:
+            prose.append(para)
+    return teaser(" ".join(prose)), "\n\n".join(facts)
+
+
 def teaser(s: str) -> str:
     s = clean(s)
     if len(s) <= TEASER_LEN:
@@ -104,6 +135,7 @@ def parse_page(page: str) -> dict[str, dict]:
                  " ".join(filter(None, [addr.get("postalCode", ""), clean(addr.get("addressLocality", ""))]))]
         place = ", ".join(x for i, x in enumerate(parts) if x and x not in parts[:i])
         eid = str(d.get("identifier") or d.get("@id")).replace("de-ostsee-event-", "")
+        anriss, fakten = split_description(d.get("description", ""), details.get("termin", ""))
         events[eid] = {
             "name": clean(d.get("name", "")),
             "start": d["startDate"],
@@ -111,7 +143,8 @@ def parse_page(page: str) -> dict[str, dict]:
             "ort": place,
             "termin": details.get("termin", ""),
             "zeit": details.get("zeit", ""),
-            "beschreibung": teaser(re.sub(r"Termin:.*$", "", d.get("description", ""), flags=re.S)),
+            "beschreibung": anriss,
+            "details": fakten,
             "url": d.get("url") or URL,
             "status": (d.get("eventStatus") or "").rsplit("/", 1)[-1],
         }
@@ -239,7 +272,7 @@ def fmt_range(e: dict) -> str:
     d1, t1 = _dt(e["start"])
     d2, t2 = _dt(e["ende"])
     s = f"{d1:%d.%m.%Y}" if d1 == d2 else f"{d1:%d.%m.%Y} bis {d2:%d.%m.%Y}"
-    if t1:
+    if t1 and (d2 - d1).days <= 1:
         s += f", {t1:%H:%M}" + (f"–{t2:%H:%M}" if t2 else "") + " Uhr"
     return s
 
@@ -259,6 +292,8 @@ def render_ics(events: dict) -> str:
             desc.append(f"Ort: {e['ort']}")
         if e.get("kategorien"):
             desc.append("Kategorie: " + ", ".join(e["kategorien"]))
+        if e.get("details"):
+            desc += ["", e["details"]]
         if e["beschreibung"]:
             desc += ["", e["beschreibung"]]
         desc += ["", f"Mehr Infos: {e['url']}", "Quelle: ostsee.de – Angaben ohne Gewähr."]
