@@ -27,6 +27,8 @@ import urllib.request
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
+import icsversion
+
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "daten"
 OUT = ROOT / "docs"
@@ -403,6 +405,8 @@ def main() -> int:
     # Einmal pro Monat aendert sich diese Datei -> monatlicher Commit, damit GitHub den Zeitplan nicht abschaltet
     KEEPALIVE_FILE.write_text(f"{today:%Y-%m}\n", encoding="utf-8")
     (OUT / "veranstaltungen.ics").write_text(render_ics(events), encoding="utf-8", newline="")
+    n = icsversion.stamp(OUT / "veranstaltungen.ics", DATA / "ics-versionen.json")
+    print(f"{n} Termine mit neuer Version (damit Kalender-Apps Aenderungen uebernehmen)")
     (OUT / "index.html").write_text(render_page(events, today), encoding="utf-8")
     return 0
 
