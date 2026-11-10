@@ -224,19 +224,19 @@ BEGIN:VEVENT
 UID:70302@veranstaltungen-warnemuende
 DTSTAMP:20260101T000000Z
 DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20270104
 SUMMARY:Warnemünder Weihnachts- und Neujahrsmarkt
 LOCATION:Kirchenplatz\, 18119 Warnemünde
-DESCRIPTION:28.11.2026 bis 23.12.2026\nZeit: ab 11:00 Uhr\nOrt: Kirchenpla
+DESCRIPTION:28.11.2026 bis 03.01.2027\nZeit: ab 11:00 Uhr\nOrt: Kirchenpla
  tz\, 18119 Warnemünde\nKategorie: Weihnachtsmärkte\n\nÖffnungszeiten:\n
- 01. – 16.12.\nMittwoch bis Sonntag 11:00 bis 21:00 Uhr (freitags und sam
- stags bis 22:00 Uhr)\n\nab 17.12.\ntäglich 11:00 bis 21:00 Uhr (freitags 
- und samstags bis 22:00 Uhr)\nHeiligabend 11:00 bis 15:00 Uhr\nSilvester 11
- :00 bis 03:00 Uhr\n\nHier erwarten Sie viele süße und herzhafte Leckerei
- en\, bunte Lichter\, Festtagsstimmung und sicherlich auch das eine oder an
- dere Mitbringsel für Ihre Liebsten.\n\nMehr Infos: https://www.ostsee.de/
- warnemuende/veranstaltungen.php\nQuelle: ostsee.de – Angaben ohne Gewäh
- r.
+ 28.11. – 15.12.\nmittwochs bis sonntags 11:00 bis 21:00 Uhr (freitags un
+ d samstags bis 22:00 Uhr)\n\nab 16.12.\ntäglich 11:00 bis 21:00 Uhr (frei
+ tags und samstags bis 22:00 Uhr)\nHeiligabend 11:00 bis 15:00 Uhr\nSilvest
+ er 11:00 bis 03:00 Uhr\n\nHier erwarten Sie viele süße und herzhafte Lec
+ kereien\, bunte Lichter\, Festtagsstimmung und sicherlich auch das eine od
+ er andere Mitbringsel für Ihre Liebsten.\n\nMehr Infos: https://www.ostse
+ e.de/warnemuende/veranstaltungen.php\nQuelle: ostsee.de – Angaben ohne G
+ ewähr.
 URL:https://www.ostsee.de/warnemuende/veranstaltungen.php
 TRANSP:TRANSPARENT
 CATEGORIES:Weihnachtsmärkte
