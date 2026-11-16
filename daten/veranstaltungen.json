@@ -101,6 +101,21 @@
     "url": "https://www.ostsee.de/warnemuende/veranstaltungen.php",
     "status": "EventScheduled"
   },
+  "75815": {
+    "name": "Silvester am Strand",
+    "start": "2026-12-31",
+    "ende": "2026-12-31",
+    "ort": "Warnemünde",
+    "termin": "",
+    "zeit": "",
+    "beschreibung": "Jedes Jahr treffen sich tausende Menschen auf der Promenade, am Warnemünder Strand und auf der Mole, um gemeinsam das neue Jahr zu begrüßen. Ein schier endloses Meer von Raketen lässt den Himmel erleuchten.",
+    "details": "",
+    "url": "https://www.ostsee.de/warnemuende/veranstaltungen.php",
+    "status": "EventScheduled",
+    "kategorien": [
+      "Silvester"
+    ]
+  },
   "73992": {
     "name": "Warnemünder Turmleuchten",
     "start": "2027-01-01T15:00",

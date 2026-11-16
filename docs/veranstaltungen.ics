@@ -346,6 +346,25 @@ URL:https://www.ostsee.de/warnemuende/veranstaltungen.php
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:75815@veranstaltungen-warnemuende
+DTSTAMP:20261116T131155Z
+LAST-MODIFIED:20261116T131155Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Silvester am Strand
+LOCATION:Warnemünde
+DESCRIPTION:31.12.2026\nOrt: Warnemünde\nKategorie: Silvester\n\nJedes Ja
+ hr treffen sich tausende Menschen auf der Promenade\, am Warnemünder Stra
+ nd und auf der Mole\, um gemeinsam das neue Jahr zu begrüßen. Ein schier
+  endloses Meer von Raketen lässt den Himmel erleuchten.\n\nMehr Infos: ht
+ tps://www.ostsee.de/warnemuende/veranstaltungen.php\nQuelle: ostsee.de –
+  Angaben ohne Gewähr.
+URL:https://www.ostsee.de/warnemuende/veranstaltungen.php
+TRANSP:TRANSPARENT
+CATEGORIES:Silvester
+END:VEVENT
+BEGIN:VEVENT
 UID:73992@veranstaltungen-warnemuende
 DTSTAMP:20261110T162819Z
 LAST-MODIFIED:20261110T162819Z
